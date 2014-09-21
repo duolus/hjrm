@@ -1,0 +1,88 @@
+[ 2014-09-16T17:17:54+08:00 ] 127.0.0.1 /hjrm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009174s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009286s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in E:\www\hjrm\Webroot\Home\Controller\IndexController.class.php on line 44 and defined E:\www\hjrm\Formwork\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content E:\www\hjrm\Formwork\Library\Think\Controller.class.php 第 69 行.
+ERR: 模板不存在:./Webroot/Home/View/Index/index.html
+
+[ 2014-09-16T17:41:33+08:00 ] 127.0.0.1 /hjrm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000863s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000957s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in E:\www\hjrm\Webroot\Home\Controller\IndexController.class.php on line 44 and defined E:\www\hjrm\Formwork\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content E:\www\hjrm\Formwork\Library\Think\Controller.class.php 第 69 行.
+ERR: 模板不存在:./Webroot/Home/View/Index/index.html
+
+[ 2014-09-16T19:47:53+08:00 ] 127.0.0.1 /hjrm/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001128s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in E:\www\hjrm\Webroot\Home\Controller\IndexController.class.php on line 44 and defined E:\www\hjrm\Formwork\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content E:\www\hjrm\Formwork\Library\Think\Controller.class.php 第 69 行.
+ERR: 模板不存在:./Webroot/Home/View/Index/index.html
+
+[ 2014-09-16T19:47:59+08:00 ] 127.0.0.1 /hjrm/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000892s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in E:\www\hjrm\Webroot\Home\Controller\IndexController.class.php on line 44 and defined E:\www\hjrm\Formwork\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content E:\www\hjrm\Formwork\Library\Think\Controller.class.php 第 69 行.
+ERR: 模板不存在:./Webroot/Home/View/Index/index.html
+
+[ 2014-09-16T19:48:02+08:00 ] 127.0.0.1 /hjrm/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000696s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000793s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in E:\www\hjrm\Webroot\Home\Controller\IndexController.class.php on line 44 and defined E:\www\hjrm\Formwork\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content E:\www\hjrm\Formwork\Library\Think\Controller.class.php 第 69 行.
+ERR: 模板不存在:./Webroot/Home/View/Index/index.html
+
+[ 2014-09-16T19:48:04+08:00 ] 127.0.0.1 /hjrm/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000607s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in E:\www\hjrm\Webroot\Home\Controller\IndexController.class.php on line 44 and defined E:\www\hjrm\Formwork\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content E:\www\hjrm\Formwork\Library\Think\Controller.class.php 第 69 行.
+ERR: 模板不存在:./Webroot/Home/View/Index/index.html
+
+[ 2014-09-16T19:48:05+08:00 ] 127.0.0.1 /hjrm/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000875s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in E:\www\hjrm\Webroot\Home\Controller\IndexController.class.php on line 44 and defined E:\www\hjrm\Formwork\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content E:\www\hjrm\Formwork\Library\Think\Controller.class.php 第 69 行.
+ERR: 模板不存在:./Webroot/Home/View/Index/index.html
+
+[ 2014-09-16T21:37:51+08:00 ] 127.0.0.1 /hjrm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000641s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000717s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in E:\www\hjrm\Webroot\Home\Controller\IndexController.class.php on line 44 and defined E:\www\hjrm\Formwork\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content E:\www\hjrm\Formwork\Library\Think\Controller.class.php 第 69 行.
+ERR: 模板不存在:./Webroot/Home/View/Index/index.html
+

@@ -2,6 +2,8 @@
 namespace Home\Controller;
 use Think\Controller;
 use Think\Auth;
+
+
 class IndexController extends Controller {
     public function indexAction(){
     	 //print_r($_SERVER);
@@ -37,5 +39,8 @@ class IndexController extends Controller {
 		 {
 		 	echo "不通过";
 		 }
+
+
+		 $this->show();
     }
 }

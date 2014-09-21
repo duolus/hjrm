@@ -1,0 +1,20 @@
+[ 2014-09-09T20:35:49+08:00 ] 127.0.0.1 /hjrm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009561s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.013926s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014044s ]
+ERR: 非法操作:index
+
+[ 2014-09-09T20:37:12+08:00 ] 127.0.0.1 /hjrm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000655s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000739s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.014539s ]
+INFO: [ app_end ] --END-- [ RunTime:0.014778s ]
+
